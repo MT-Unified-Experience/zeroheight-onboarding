@@ -53,7 +53,7 @@ export function ZeroHeightTabsV2() {
           <TabsContent value="featured">
             <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-6">
               <div className="relative group">
-                <Link className="absolute inset-0 z-10" href="https://zeroheight.com/9a7544bce/p/020c2e">
+                <Link target="_blank" className="absolute inset-0 z-10" href="https://zeroheight.com/9a7544bce/p/020c2e">
                   <span className="sr-only">View product</span>
                 </Link>
                 <img
@@ -74,7 +74,7 @@ export function ZeroHeightTabsV2() {
                 </div>
               </div>
               <div className="relative group">
-                <Link className="absolute inset-0 z-10" href="https://zeroheight.com/9a7544bce/p/017863">
+                <Link  target="_blank" className="absolute inset-0 z-10" href="https://zeroheight.com/9a7544bce/p/017863">
                   <span className="sr-only">View product</span>
                 </Link>
                 <img
@@ -95,7 +95,7 @@ export function ZeroHeightTabsV2() {
                 </div>
               </div>
               <div className="relative group">
-                <Link className="absolute inset-0 z-10" href="https://zeroheight.com/9a7544bce/p/33034b">
+                <Link  target="_blank" className="absolute inset-0 z-10" href="https://zeroheight.com/9a7544bce/p/33034b">
                   <span className="sr-only">View product</span>
                 </Link>
                 <img
@@ -116,7 +116,7 @@ export function ZeroHeightTabsV2() {
                 </div>
               </div>
               <div className="relative group">
-                <Link className="absolute inset-0 z-10" href="https://zeroheight.com/9a7544bce/p/9729f8">
+                <Link  target="_blank" className="absolute inset-0 z-10" href="https://zeroheight.com/9a7544bce/p/9729f8">
                   <span className="sr-only">View product</span>
                 </Link>
                 <img
@@ -141,7 +141,7 @@ export function ZeroHeightTabsV2() {
           <TabsContent value="newest">
             <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-6">
               <div className="relative group">
-                <Link className="absolute inset-0 z-10" href="#">
+                <Link  target="_blank" className="absolute inset-0 z-10" href="#">
                   <span className="sr-only">View product</span>
                 </Link>
                 <img
@@ -162,7 +162,7 @@ export function ZeroHeightTabsV2() {
                 </div>
               </div>
               <div className="relative group">
-                <Link className="absolute inset-0 z-10" href="#">
+                <Link  target="_blank" className="absolute inset-0 z-10" href="#">
                   <span className="sr-only">View product</span>
                 </Link>
                 <img
@@ -183,7 +183,7 @@ export function ZeroHeightTabsV2() {
                 </div>
               </div>
               <div className="relative group">
-                <Link className="absolute inset-0 z-10" href="#">
+                <Link  target="_blank" className="absolute inset-0 z-10" href="#">
                   <span className="sr-only">View product</span>
                 </Link>
                 <img
@@ -204,7 +204,7 @@ export function ZeroHeightTabsV2() {
                 </div>
               </div>
               <div className="relative group">
-                <Link className="absolute inset-0 z-10" href="#">
+                <Link  target="_blank" className="absolute inset-0 z-10" href="#">
                   <span className="sr-only">View product</span>
                 </Link>
                 <img
@@ -230,7 +230,7 @@ export function ZeroHeightTabsV2() {
           <TabsContent value="sale">
             <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-6">
               <div className="relative group">
-                <Link className="absolute inset-0 z-10" href="#">
+                <Link  target="_blank" className="absolute inset-0 z-10" href="#">
                   <span className="sr-only">View product</span>
                 </Link>
                 <img
@@ -251,7 +251,7 @@ export function ZeroHeightTabsV2() {
                 </div>
               </div>
               <div className="relative group">
-                <Link className="absolute inset-0 z-10" href="#">
+                <Link  target="_blank" className="absolute inset-0 z-10" href="#">
                   <span className="sr-only">View product</span>
                 </Link>
                 <img
@@ -272,7 +272,7 @@ export function ZeroHeightTabsV2() {
                 </div>
               </div>
               <div className="relative group">
-                <Link className="absolute inset-0 z-10" href="#">
+                <Link  target="_blank" className="absolute inset-0 z-10" href="#">
                   <span className="sr-only">View product</span>
                 </Link>
                 <img
@@ -294,7 +294,7 @@ export function ZeroHeightTabsV2() {
                 </div>
               </div>
               <div className="relative group">
-                <Link className="absolute inset-0 z-10" href="#">
+                <Link  target="_blank" className="absolute inset-0 z-10" href="#">
                   <span className="sr-only">View product</span>
                 </Link>
                 <img
