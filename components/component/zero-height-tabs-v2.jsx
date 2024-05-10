@@ -141,20 +141,20 @@ export function ZeroHeightTabsV2() {
           <TabsContent value="newest">
             <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-6">
               <div className="relative group">
-                <Link  target="_blank" className="absolute inset-0 z-10" href="#">
+                <Link  target="_blank" className="absolute inset-0 z-10" href="https://zeroheight.com/9a7544bce/v/latest/p/95dae2-iconography/b/5273f2">
                   <span className="sr-only">View product</span>
                 </Link>
                 <img
                   alt="Product image"
-                  className="rounded-lg object-cover w-full aspect-square group-hover:opacity-50 transition-opacity"
-                  height={450}
-                  src="/placeholder.svg"
-                  width={450} />
+                  className="rounded-lg object-cover w-full group-hover:opacity-50 transition-opacity"
+                  height={100}
+                  src="/icon.svg"
+                  width={198} />
                 <div className="flex-1 py-4">
-                  <h3 className="font-semibold tracking-tight pb-3">Portable Bluetooth Speaker</h3>
+                  <h3 className="font-semibold tracking-tight pb-3">Iconography</h3>
                   <p
                     className="text-sm leading-4 text-gray-500 dark:text-gray-400 line-clamp-2">
-                    Enjoy high-quality audio on the go with our compact and powerful Bluetooth speaker.
+                    Clear visual shortcuts that enhance navigation and understanding.
                   </p>
                   <div className="mt-4">
                     <Button size="sm" variant="outline">Learn more</Button>
@@ -162,20 +162,20 @@ export function ZeroHeightTabsV2() {
                 </div>
               </div>
               <div className="relative group">
-                <Link  target="_blank" className="absolute inset-0 z-10" href="#">
+                <Link  target="_blank" className="absolute inset-0 z-10" href="https://zeroheight.com/9a7544bce/v/latest/p/0869e0-typography/b/99d220">
                   <span className="sr-only">View product</span>
                 </Link>
                 <img
                   alt="Product image"
-                  className="rounded-lg object-cover w-full aspect-square group-hover:opacity-50 transition-opacity"
-                  height={450}
-                  src="/placeholder.svg"
-                  width={450} />
+                  className="rounded-lg object-cover w-full group-hover:opacity-50 transition-opacity"
+                  height={100}
+                  src="/type.svg"
+                  width={198} />
                 <div className="flex-1 py-4">
-                  <h3 className="font-semibold tracking-tight pb-3">Fitness Tracker Watch</h3>
+                  <h3 className="font-semibold tracking-tight pb-3">Typography</h3>
                   <p
                     className="text-sm leading-4 text-gray-500 dark:text-gray-400 line-clamp-2">
-                    Stay on top of your fitness goals with our advanced fitness tracker watch.
+                    Consistent typography ensures a clean and readable user experience.
                   </p>
                   <div className="mt-4">
                     <Button size="sm" variant="outline">Learn more</Button>
@@ -183,20 +183,20 @@ export function ZeroHeightTabsV2() {
                 </div>
               </div>
               <div className="relative group">
-                <Link  target="_blank" className="absolute inset-0 z-10" href="#">
+                <Link  target="_blank" className="absolute inset-0 z-10" href="https://zeroheight.com/9a7544bce/v/latest/p/2386d7-chart-colors">
                   <span className="sr-only">View product</span>
                 </Link>
                 <img
                   alt="Product image"
-                  className="rounded-lg object-cover w-full aspect-square group-hover:opacity-50 transition-opacity"
-                  height={450}
-                  src="/placeholder.svg"
-                  width={450} />
+                  className="rounded-lg object-cover w-full group-hover:opacity-50 transition-opacity"
+                  height={100}
+                  src="/chart-colors.svg"
+                  width={198} />
                 <div className="flex-1 py-4">
-                  <h3 className="font-semibold tracking-tight pb-3">Smart LED Light Bulb</h3>
+                  <h3 className="font-semibold tracking-tight pb-3">Chart Colors</h3>
                   <p
                     className="text-sm leading-4 text-gray-500 dark:text-gray-400 line-clamp-2">
-                    Transform your home with our cutting-edge smart LED light bulbs, offering endless customization.
+                    Data visualizations that communicate information effectively using accessible colors.
                   </p>
                   <div className="mt-4">
                     <Button size="sm" variant="outline">Learn more</Button>
@@ -204,21 +204,20 @@ export function ZeroHeightTabsV2() {
                 </div>
               </div>
               <div className="relative group">
-                <Link  target="_blank" className="absolute inset-0 z-10" href="#">
+                <Link  target="_blank" className="absolute inset-0 z-10" href="https://zeroheight.com/9a7544bce/v/latest/p/64354f-sso-single-sign-on">
                   <span className="sr-only">View product</span>
                 </Link>
                 <img
                   alt="Product image"
-                  className="rounded-lg object-cover w-full aspect-square group-hover:opacity-50 transition-opacity"
-                  height={450}
-                  src="/placeholder.svg"
-                  width={450} />
+                  className="rounded-lg object-cover w-full group-hover:opacity-50 transition-opacity"
+                  height={100}
+                  src="/sso.svg"
+                  width={198} />
                 <div className="flex-1 py-4">
-                  <h3 className="font-semibold tracking-tight pb-3">Wireless Charging Station</h3>
+                  <h3 className="font-semibold tracking-tight pb-3">SSO (Single Sign-On)</h3>
                   <p
                     className="text-sm leading-4 text-gray-500 dark:text-gray-400 line-clamp-2">
-                    Streamline your charging with our versatile wireless charging station, compatible with multiple
-                    devices.
+                    Streamlined login experience for users across multiple products.
                   </p>
                   <div className="mt-4">
                     <Button size="sm" variant="outline">Learn more</Button>
@@ -230,20 +229,62 @@ export function ZeroHeightTabsV2() {
           <TabsContent value="sale">
             <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-6">
               <div className="relative group">
-                <Link  target="_blank" className="absolute inset-0 z-10" href="#">
+                <Link  target="_blank" className="absolute inset-0 z-10" href="https://zeroheight.com/9a7544bce/v/latest/p/982b0c-home-pages">
                   <span className="sr-only">View product</span>
                 </Link>
                 <img
                   alt="Product image"
-                  className="rounded-lg object-cover w-full aspect-square group-hover:opacity-50 transition-opacity"
-                  height={450}
-                  src="/placeholder.svg"
-                  width={450} />
+                  className="rounded-lg object-cover w-full group-hover:opacity-50 transition-opacity"
+                  height={100}
+                  src="/home.svg"
+                  width={198} />
                 <div className="flex-1 py-4">
-                  <h3 className="font-semibold tracking-tight pb-3">Cordless Vacuum Cleaner</h3>
+                  <h3 className="font-semibold tracking-tight pb-3">Home pages</h3>
                   <p
                     className="text-sm leading-4 text-gray-500 dark:text-gray-400 line-clamp-2">
-                    Experience the ultimate in cleaning convenience with our powerful cordless vacuum cleaner.
+                    Crafting cohesive home pages across products.
+                  </p>
+                  <div className="mt-4">
+                    <Button size="sm" variant="outline">Learn more</Button>
+                  </div>
+                </div>
+              </div>
+              <div className="relative group">
+                <Link  target="_blank" className="absolute inset-0 z-10" href="https://zeroheight.com/9a7544bce/v/latest/p/44015b-emails">
+                  <span className="sr-only">View product</span>
+                </Link>
+                <img
+                  alt="Product image"
+                  className="rounded-lg object-cover w-full group-hover:opacity-50 transition-opacity"
+                  height={100}
+                  src="/emails.svg"
+                  width={198} />
+                <div className="flex-1 py-4">
+                  <h3 className="font-semibold tracking-tight pb-3">Emails</h3>
+                  <p
+                    className="text-sm leading-4 text-gray-500 dark:text-gray-400 line-clamp-2">
+                    Building a consistent brand voice in our customer's inbox.
+                  </p>
+                  <div className="mt-4">
+                    <Button size="sm" variant="outline">Learn more</Button>
+                  </div>
+                </div>
+              </div>
+              <div className="relative group">
+                <Link  target="_blank" className="absolute inset-0 z-10" href="https://zeroheight.com/9a7544bce/v/latest/p/82a1d3-mobile">
+                  <span className="sr-only">View product</span>
+                </Link>
+                <img
+                  alt="Product image"
+                  className="rounded-lg object-cover w-full group-hover:opacity-50 transition-opacity"
+                  height={100}
+                  src="/mobile.svg"
+                  width={198} />
+                <div className="flex-1 py-4">
+                  <h3 className="font-semibold tracking-tight pb-3">Mobile</h3>
+                  <p
+                    className="text-sm leading-4 text-gray-500 dark:text-gray-400 line-clamp-2">
+                    Ensuring a great user experience on mobile.
                   </p>
                   <div className="mt-4">
                     <Button size="sm" variant="outline">Learn more</Button>
@@ -256,58 +297,15 @@ export function ZeroHeightTabsV2() {
                 </Link>
                 <img
                   alt="Product image"
-                  className="rounded-lg object-cover w-full aspect-square group-hover:opacity-50 transition-opacity"
-                  height={450}
-                  src="/placeholder.svg"
-                  width={450} />
+                  className="rounded-lg object-cover w-full group-hover:opacity-50 transition-opacity"
+                  height={100}
+                  src="/figma-toolkit.svg"
+                  width={198} />
                 <div className="flex-1 py-4">
-                  <h3 className="font-semibold tracking-tight pb-3">Smart Air Purifier</h3>
+                  <h3 className="font-semibold tracking-tight pb-3">Figma Toolkit</h3>
                   <p
                     className="text-sm leading-4 text-gray-500 dark:text-gray-400 line-clamp-2">
-                    Breathe easy with our advanced smart air purifier, keeping your indoor air clean and fresh.
-                  </p>
-                  <div className="mt-4">
-                    <Button size="sm" variant="outline">Learn more</Button>
-                  </div>
-                </div>
-              </div>
-              <div className="relative group">
-                <Link  target="_blank" className="absolute inset-0 z-10" href="#">
-                  <span className="sr-only">View product</span>
-                </Link>
-                <img
-                  alt="Product image"
-                  className="rounded-lg object-cover w-full aspect-square group-hover:opacity-50 transition-opacity"
-                  height={450}
-                  src="/placeholder.svg"
-                  width={450} />
-                <div className="flex-1 py-4">
-                  <h3 className="font-semibold tracking-tight pb-3">Robotic Lawn Mower</h3>
-                  <p
-                    className="text-sm leading-4 text-gray-500 dark:text-gray-400 line-clamp-2">
-                    Effortlessly maintain your lawn with our cutting-edge robotic lawn mower, perfect for busy
-                    homeowners.
-                  </p>
-                  <div className="mt-4">
-                    <Button size="sm" variant="outline">Learn more</Button>
-                  </div>
-                </div>
-              </div>
-              <div className="relative group">
-                <Link  target="_blank" className="absolute inset-0 z-10" href="#">
-                  <span className="sr-only">View product</span>
-                </Link>
-                <img
-                  alt="Product image"
-                  className="rounded-lg object-cover w-full aspect-square group-hover:opacity-50 transition-opacity"
-                  height={450}
-                  src="/placeholder.svg"
-                  width={450} />
-                <div className="flex-1 py-4">
-                  <h3 className="font-semibold tracking-tight pb-3">Smart Home Security Camera</h3>
-                  <p
-                    className="text-sm leading-4 text-gray-500 dark:text-gray-400 line-clamp-2">
-                    Enhance your home security with our advanced smart home security camera, offering 24/7 monitoring.
+                    Reusable components for consistent UIs.
                   </p>
                   <div className="mt-4">
                     <Button size="sm" variant="outline">Learn more</Button>
