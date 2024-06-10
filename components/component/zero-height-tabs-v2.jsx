@@ -26,7 +26,7 @@ export function ZeroHeightTabsV2() {
     (<main key="1" className="w-full max-w-6xl mx-auto px-4 py-0 md:px-6 md:py-0">
       <div className="grid gap-8">
         <div className="text-left">
-          <h1 className="text-3xl font-bold tracking-tight sm:text-4xl">In which phase you want to start?</h1>
+          <h1 className="text-3xl font-bold tracking-tight sm:text-4xl">In which pahse do you want to start?</h1>
           <p className="mt-4 text-gray-500 dark:text-gray-400">
             Select a phase of the unified branding experience to get started.
           </p>
