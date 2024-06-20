@@ -21,6 +21,8 @@ import { TabsTrigger, TabsList, TabsContent, Tabs } from "@/components/ui/tabs"
 import Link from "next/link"
 import { Button } from "@/components/ui/button"
 
+// const config = require('../../next.config');
+
 export function ZeroHeightTabsV2() {
   return (
     (<main key="1" className="w-full max-w-6xl mx-auto px-4 py-0 md:px-6 md:py-0">
@@ -60,7 +62,7 @@ export function ZeroHeightTabsV2() {
                   alt="Product image"
                   className="rounded-lg object-cover w-full group-hover:opacity-50 transition-opacity"
                   height={100}
-                  src="/login.svg"
+                  src="/zeroheight-onboarding/login.svg"
                   width={198} />
                 <div className="flex-1 py-4">
                   <h3 className="font-semibold tracking-tight pb-3">Login page</h3>
@@ -81,7 +83,7 @@ export function ZeroHeightTabsV2() {
                   alt="Product image"
                   className="rounded-lg object-cover w-full group-hover:opacity-50 transition-opacity"
                   height={100}
-                  src="/colors.svg"
+                  src="/zeroheight-onboarding/colors.svg"
                   width={198} />
                 <div className="flex-1 py-4">
                   <h3 className="font-semibold tracking-tight pb-3">Color</h3>
@@ -102,7 +104,7 @@ export function ZeroHeightTabsV2() {
                   alt="Product image"
                   className="rounded-lg object-cover w-full group-hover:opacity-50 transition-opacity"
                   height={100}
-                  src="/brand.svg"
+                  src="/zeroheight-onboarding/brand.svg"
                   width={198} />
                 <div className="flex-1 py-4">
                   <h3 className="font-semibold tracking-tight pb-3">Branding</h3>
@@ -123,7 +125,7 @@ export function ZeroHeightTabsV2() {
                   alt="Product image"
                   className="rounded-lg object-cover w-full group-hover:opacity-50 transition-opacity"
                   height={100}
-                  src="/accesibility.svg"
+                  src="/zeroheight-onboarding/accesibility.svg"
                   width={198} />
                 <div className="flex-1 py-4">
                   <h3 className="font-semibold tracking-tight pb-3">Accesibility</h3>
@@ -148,7 +150,7 @@ export function ZeroHeightTabsV2() {
                   alt="Product image"
                   className="rounded-lg object-cover w-full group-hover:opacity-50 transition-opacity"
                   height={100}
-                  src="/icon.svg"
+                  src="/zeroheight-onboarding/icon.svg"
                   width={198} />
                 <div className="flex-1 py-4">
                   <h3 className="font-semibold tracking-tight pb-3">Iconography</h3>
@@ -169,7 +171,7 @@ export function ZeroHeightTabsV2() {
                   alt="Product image"
                   className="rounded-lg object-cover w-full group-hover:opacity-50 transition-opacity"
                   height={100}
-                  src="/type.svg"
+                  src="/zeroheight-onboarding/type.svg"
                   width={198} />
                 <div className="flex-1 py-4">
                   <h3 className="font-semibold tracking-tight pb-3">Typography</h3>
@@ -190,7 +192,7 @@ export function ZeroHeightTabsV2() {
                   alt="Product image"
                   className="rounded-lg object-cover w-full group-hover:opacity-50 transition-opacity"
                   height={100}
-                  src="/chart-colors.svg"
+                  src="/zeroheight-onboarding/chart-colors.svg"
                   width={198} />
                 <div className="flex-1 py-4">
                   <h3 className="font-semibold tracking-tight pb-3">Chart Colors</h3>
@@ -211,7 +213,7 @@ export function ZeroHeightTabsV2() {
                   alt="Product image"
                   className="rounded-lg object-cover w-full group-hover:opacity-50 transition-opacity"
                   height={100}
-                  src="/sso.svg"
+                  src="/zeroheight-onboarding/sso.svg"
                   width={198} />
                 <div className="flex-1 py-4">
                   <h3 className="font-semibold tracking-tight pb-3">SSO (Single Sign-On)</h3>
@@ -236,7 +238,7 @@ export function ZeroHeightTabsV2() {
                   alt="Product image"
                   className="rounded-lg object-cover w-full group-hover:opacity-50 transition-opacity"
                   height={100}
-                  src="/home.svg"
+                  src="/zeroheight-onboarding/home.svg"
                   width={198} />
                 <div className="flex-1 py-4">
                   <h3 className="font-semibold tracking-tight pb-3">Home pages</h3>
@@ -257,7 +259,7 @@ export function ZeroHeightTabsV2() {
                   alt="Product image"
                   className="rounded-lg object-cover w-full group-hover:opacity-50 transition-opacity"
                   height={100}
-                  src="/emails.svg"
+                  src="/zeroheight-onboarding/emails.svg"
                   width={198} />
                 <div className="flex-1 py-4">
                   <h3 className="font-semibold tracking-tight pb-3">Emails</h3>
@@ -278,7 +280,7 @@ export function ZeroHeightTabsV2() {
                   alt="Product image"
                   className="rounded-lg object-cover w-full group-hover:opacity-50 transition-opacity"
                   height={100}
-                  src="/mobile.svg"
+                  src="/zeroheight-onboarding/mobile.svg"
                   width={198} />
                 <div className="flex-1 py-4">
                   <h3 className="font-semibold tracking-tight pb-3">Mobile</h3>
@@ -299,7 +301,7 @@ export function ZeroHeightTabsV2() {
                   alt="Product image"
                   className="rounded-lg object-cover w-full group-hover:opacity-50 transition-opacity"
                   height={100}
-                  src="/figma-toolkit.svg"
+                  src="/zeroheight-onboarding/figma-toolkit.svg"
                   width={198} />
                 <div className="flex-1 py-4">
                   <h3 className="font-semibold tracking-tight pb-3">Figma Toolkit</h3>
