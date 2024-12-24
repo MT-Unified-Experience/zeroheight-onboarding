@@ -118,7 +118,7 @@ export function ZeroHeightTabsV2() {
                 </div>
               </div>
               <div className="relative group">
-                <Link  target="_blank" className="absolute inset-0 z-10" href="https://zeroheight.com/9a7544bce">
+                <Link  target="_blank" className="absolute inset-0 z-10" href="https://zeroheight.com/9a7544bce/p/860f45-accessibility-part-1/t/79ece8905c">
                   <span className="sr-only">View product</span>
                 </Link>
                 <img
@@ -231,7 +231,7 @@ export function ZeroHeightTabsV2() {
           <TabsContent value="sale">
             <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-6">
               <div className="relative group">
-                <Link  target="_blank" className="absolute inset-0 z-10" href="https://zeroheight.com/9a7544bce">
+                <Link  target="_blank" className="absolute inset-0 z-10" href="https://zeroheight.com/9a7544bce/p/724ce4-illustrations/t/681033b5f4">
                   <span className="sr-only">View product</span>
                 </Link>
                 <img
@@ -252,7 +252,7 @@ export function ZeroHeightTabsV2() {
                 </div>
               </div>
               <div className="relative group">
-                <Link  target="_blank" className="absolute inset-0 z-10" href="https://zeroheight.com/9a7544bce">
+                <Link  target="_blank" className="absolute inset-0 z-10" href="https://zeroheight.com/9a7544bce/p/13f38f-emails/t/49e748">
                   <span className="sr-only">View product</span>
                 </Link>
                 <img
@@ -273,7 +273,7 @@ export function ZeroHeightTabsV2() {
                 </div>
               </div>
               <div className="relative group">
-                <Link  target="_blank" className="absolute inset-0 z-10" href="https://zeroheight.com/9a7544bce">
+                <Link  target="_blank" className="absolute inset-0 z-10" href="https://zeroheight.com/9a7544bce/p/36ccbc-mobile-components">
                   <span className="sr-only">View product</span>
                 </Link>
                 <img
@@ -294,7 +294,7 @@ export function ZeroHeightTabsV2() {
                 </div>
               </div>
               <div className="relative group">
-                <Link  target="_blank" className="absolute inset-0 z-10" href="https://zeroheight.com/9a7544bce">
+                <Link  target="_blank" className="absolute inset-0 z-10" href="https://zeroheight.com/9a7544bce/p/33ddc5-downloads">
                   <span className="sr-only">View product</span>
                 </Link>
                 <img
