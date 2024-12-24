@@ -6,6 +6,8 @@
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
   --background-end-rgb: 255, 255, 255;
+  --text-primary: #0067D2;
+  --border-secondary: #ED5B3E;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -25,4 +27,11 @@ body {
   .text-balance {
     text-wrap: balance;
   }
+}
+
+.text-primary {
+  color: var(--text-primary);
+}
+.border-secondary {
+  color: var(--border-secondary);
 }

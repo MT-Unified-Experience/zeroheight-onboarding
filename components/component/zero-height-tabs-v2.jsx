@@ -37,17 +37,17 @@ export function ZeroHeightTabsV2() {
           <TabsList
             className="flex gap-2 bg-white dark:border-gray-800 pb-8 justify-start">
             <TabsTrigger
-              className="inline-flex items-center justify-center rounded-full px-4 py-2 text-sm font-medium text-gray-900 transition-colors hover:bg-gray-200 focus:outline-none focus-visible:ring-2 focus-visible:ring-gray-950 dark:bg-gray-800 dark:text-gray-50 dark:hover:bg-gray-700 dark:focus-visible:ring-gray-300 data-[state=active]:border-b-2 data-[state=active]:border-gray-900 dark:data-[state=active]:border-gray-50"
+              className="inline-flex items-center justify-center px-4 py-2 text-sm font-medium text-gray-900 transition-colors hover:bg-gray-200 focus:outline-none focus-visible:ring-2 focus-visible:ring-gray-950 dark:bg-gray-800 dark:text-gray-50 dark:hover:bg-gray-700 dark:focus-visible:ring-gray-300 data-[state=active]:border-b-2 data-[state=active]:border-orange-500 dark:data-[state=active]:border-gray-50"
               value="featured">
               Phase 1
             </TabsTrigger>
             <TabsTrigger
-              className="inline-flex items-center justify-center rounded-full px-4 py-2 text-sm font-medium text-gray-900 transition-colors hover:bg-gray-200 focus:outline-none focus-visible:ring-2 focus-visible:ring-gray-950 dark:bg-gray-800 dark:text-gray-50 dark:hover:bg-gray-700 dark:focus-visible:ring-gray-300 data-[state=active]:border-b-2 data-[state=active]:border-gray-900 dark:data-[state=active]:border-gray-50"
+              className="inline-flex items-center justify-center px-4 py-2 text-sm font-medium text-gray-900 transition-colors hover:bg-gray-200 focus:outline-none focus-visible:ring-2 focus-visible:ring-gray-950 dark:bg-gray-800 dark:text-gray-50 dark:hover:bg-gray-700 dark:focus-visible:ring-gray-300 data-[state=active]:border-b-2 data-[state=active]:border-orange-500 dark:data-[state=active]:border-gray-50"
               value="newest">
               Phase 2
             </TabsTrigger>
             <TabsTrigger
-              className="inline-flex items-center justify-center rounded-full px-4 py-2 text-sm font-medium text-gray-900 transition-colors hover:bg-gray-200 focus:outline-none focus-visible:ring-2 focus-visible:ring-gray-950 dark:bg-gray-800 dark:text-gray-50 dark:hover:bg-gray-700 dark:focus-visible:ring-gray-300 data-[state=active]:border-b-2 data-[state=active]:border-gray-900 dark:data-[state=active]:border-gray-50"
+              className="inline-flex items-center justify-center px-4 py-2 text-sm font-medium text-gray-900 transition-colors hover:bg-gray-200 focus:outline-none focus-visible:ring-2 focus-visible:ring-gray-950 dark:bg-gray-800 dark:text-gray-50 dark:hover:bg-gray-700 dark:focus-visible:ring-gray-300 data-[state=active]:border-b-2 data-[state=active]:border-orange-500 dark:data-[state=active]:border-gray-50"
               value="sale">
               Phase 3
             </TabsTrigger>
@@ -118,7 +118,7 @@ export function ZeroHeightTabsV2() {
                 </div>
               </div>
               <div className="relative group">
-                <Link  target="_blank" className="absolute inset-0 z-10" href="https://zeroheight.com/9a7544bce/p/9729f8">
+                <Link  target="_blank" className="absolute inset-0 z-10" href="https://zeroheight.com/9a7544bce">
                   <span className="sr-only">View product</span>
                 </Link>
                 <img
@@ -128,7 +128,7 @@ export function ZeroHeightTabsV2() {
                   src="/zeroheight-onboarding/accesibility.svg"
                   width={198} />
                 <div className="flex-1 py-4">
-                  <h3 className="font-semibold tracking-tight pb-3">Accesibility</h3>
+                  <h3 className="font-semibold tracking-tight pb-3">Accessibility</h3>
                   <p
                     className="text-sm leading-4 text-gray-500 dark:text-gray-400 line-clamp-2">
                     Create products usable by everyone, regardless of ability.
@@ -231,20 +231,20 @@ export function ZeroHeightTabsV2() {
           <TabsContent value="sale">
             <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-6">
               <div className="relative group">
-                <Link  target="_blank" className="absolute inset-0 z-10" href="https://zeroheight.com/9a7544bce/v/latest/p/982b0c-home-pages">
+                <Link  target="_blank" className="absolute inset-0 z-10" href="https://zeroheight.com/9a7544bce">
                   <span className="sr-only">View product</span>
                 </Link>
                 <img
                   alt="Product image"
                   className="rounded-lg object-cover w-full group-hover:opacity-50 transition-opacity"
                   height={100}
-                  src="/zeroheight-onboarding/home.svg"
+                  src="/zeroheight-onboarding/illustrations.svg"
                   width={198} />
                 <div className="flex-1 py-4">
-                  <h3 className="font-semibold tracking-tight pb-3">Home pages</h3>
+                  <h3 className="font-semibold tracking-tight pb-3">Illustrations</h3>
                   <p
                     className="text-sm leading-4 text-gray-500 dark:text-gray-400 line-clamp-2">
-                    Crafting cohesive home pages across products.
+                    Guidelines for using illustrations covering styles and usage.
                   </p>
                   <div className="mt-4">
                     <Button size="sm" variant="outline">Learn more</Button>
@@ -252,7 +252,7 @@ export function ZeroHeightTabsV2() {
                 </div>
               </div>
               <div className="relative group">
-                <Link  target="_blank" className="absolute inset-0 z-10" href="https://zeroheight.com/9a7544bce/v/latest/p/44015b-emails">
+                <Link  target="_blank" className="absolute inset-0 z-10" href="https://zeroheight.com/9a7544bce">
                   <span className="sr-only">View product</span>
                 </Link>
                 <img
@@ -273,7 +273,7 @@ export function ZeroHeightTabsV2() {
                 </div>
               </div>
               <div className="relative group">
-                <Link  target="_blank" className="absolute inset-0 z-10" href="https://zeroheight.com/9a7544bce/v/latest/p/82a1d3-mobile">
+                <Link  target="_blank" className="absolute inset-0 z-10" href="https://zeroheight.com/9a7544bce">
                   <span className="sr-only">View product</span>
                 </Link>
                 <img
@@ -294,7 +294,7 @@ export function ZeroHeightTabsV2() {
                 </div>
               </div>
               <div className="relative group">
-                <Link  target="_blank" className="absolute inset-0 z-10" href="#">
+                <Link  target="_blank" className="absolute inset-0 z-10" href="https://zeroheight.com/9a7544bce">
                   <span className="sr-only">View product</span>
                 </Link>
                 <img
