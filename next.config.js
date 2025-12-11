@@ -4,7 +4,7 @@
 const isProd = process.env.NODE_ENV === 'production';
 
 const nextConfig = {
-    basePath: isProd ? '/zeroheight-onboarding/' : '',
+    basePath: isProd ? '/zeroheight-onboarding' : '',
     output: 'export',
     distDir: 'dist',
     images: {
